@@ -1,16 +1,5 @@
 # Cybersecurity-Learning
 
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Raleway:wght@400&display=swap" rel="stylesheet">
-
-<style>
-  h1, h2, h3 {
-    font-family: 'Montserrat', sans-serif;
-  }
-  body, p, li {
-    font-family: 'Raleway', sans-serif;
-  }
-</style>
-
 This repository is a record of my journey into the world of cybersecurity.  
 Instead of just keeping private notes, I am making my progress public to stay consistent, showcase growth, and hopefully help others who are starting out.
 
